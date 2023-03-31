@@ -1,10 +1,12 @@
-![Presentacion](https://user-images.githubusercontent.com/82491533/229025891-3777cb3a-a805-4631-8f22-6470cd12e5c1.gif)
+
+
+![Presentacion](https://user-images.githubusercontent.com/82491533/229029054-c5aa16fd-f475-444f-bee7-9f59bf553f6a.gif)
 
 ![Mauricio](https://user-images.githubusercontent.com/82491533/227761153-f86c0dac-37ae-4803-b9ae-3cd9a8862f6d.png) **Hola, mi nombre es Mauricio Maza.**
 ### FrondEnd
 
-🎓 Soy estudiante de Ingeniería de Sistemas, actualmente cursando el VII ciclo de mi carrera, he desarrollado 2 paginas web.
-💻 Me gusta practicar Front-end
+🎓 Soy estudiante de Ingeniería de Sistemas, actualmente cursando el VII ciclo de mi carrera, he desarrollado 2 paginas web.\
+💻 Me gusta practicar Front-end.
 
 ### 🖥️ &nbsp;Tecnologías
 
