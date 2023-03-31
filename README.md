@@ -9,10 +9,6 @@ Soy estudiante de Ingeniería de Sistemas, actualmente cursando el VII ciclo de 
 * [Tienda](https://tienda-polos.netlify.app/)
 * [Blog-Café](https://funny-semolina-289df3.netlify.app/)
 
-![Curriculum](https://user-images.githubusercontent.com/82491533/228715028-10244199-bd47-42e4-85bf-0537e3e89ba8.png)
-
-
-
 ### Habilidades
 
 ![html-5](https://user-images.githubusercontent.com/82491533/227761164-75bfd518-fd5b-4975-afa7-a4b181213ee9.png)
