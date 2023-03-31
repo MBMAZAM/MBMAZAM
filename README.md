@@ -20,7 +20,7 @@
 
 * [Servicios](https://primer-proyecto-free.netlify.app/)
 * [Tienda](https://tienda-polos.netlify.app/)
-* [Blog-Café](https://funny-semolina-289df3.netlify.app/)
+* [Blog-Café](https://webblog-cafe.netlify.app/))
 
 ### 🔨 Heramientas
 
