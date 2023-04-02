@@ -18,7 +18,7 @@
 
 ### Paginas Web: 
 
-* [Servicios](https://primer-proyecto-free.netlify.app/)
+* [Servicios](https://tienda-servicios-web.netlify.app/)
 * [Tienda](https://tienda-polos.netlify.app/)
 * [Blog-Café](https://webblog-cafe.netlify.app/)
 
