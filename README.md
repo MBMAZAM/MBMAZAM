@@ -5,7 +5,10 @@
 ![Mauricio](https://user-images.githubusercontent.com/82491533/227761153-f86c0dac-37ae-4803-b9ae-3cd9a8862f6d.png) **Hola, mi nombre es Mauricio Maza.**
 ### FrondEnd
 
-🎓 Soy estudiante de Ingeniería de Sistemas, actualmente cursando el VII ciclo de mi carrera, he desarrollado 2 paginas web.\
+🎓 Ingeniero de Sistemas titulado, con experiencia en soporte técnico, validación funcional de sistemas y atención de incidencias. He participado en el desarrollo, mantenimiento y pruebas funcionales de aplicaciones web, asegurando su correcto funcionamiento y experiencia de usuario.
+
+Cuento con conocimientos en SQL, pruebas de sistemas, soporte a usuarios y metodologías ágiles. Me caracterizo por ser analítico, detallista y orientado a la resolución de problemas, con capacidad para trabajar en equipo y adaptarme rápidamente a nuevos entornos tecnológicos.
+\
 💻 Me gusta practicar Front-end.
 
 ### 🖥️ &nbsp;Tecnologías
