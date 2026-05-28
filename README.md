@@ -26,7 +26,7 @@ Cuento con conocimientos en SQL, pruebas de sistemas, soporte a usuarios y metod
 
 * [Cuna Stella Maris](https://www.ieism.edu.pe/stella-maris/)
 * [Transportes & Multiservicios SAC](https://eyltransportesymultiservicios.netlify.app/)
-* [PetFinder]([https://www.ieism.edu.pe/stella-maris/](https://pet-finder-personal.netlify.app/))
+* [PetFinder](https://pet-finder-personal.netlify.app/)
 * [Rextie](https://rextie-app.netlify.app/)
 * [Servicios](https://tienda-servicios-web.netlify.app/)
 * [Tienda](https://tienda-polos.netlify.app/)
