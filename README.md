@@ -18,16 +18,31 @@ Cuento con conocimientos en SQL, pruebas de sistemas, soporte a usuarios y metod
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TAILWIND](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ### Paginas Web: 
 
+* [Cuna Stella Maris](https://www.ieism.edu.pe/stella-maris/)
+* [Transportes & Multiservicios SAC](https://eyltransportesymultiservicios.netlify.app/)
+* [PetFinder]([https://www.ieism.edu.pe/stella-maris/](https://pet-finder-personal.netlify.app/))
+* [Rextie](https://rextie-app.netlify.app/)
 * [Servicios](https://tienda-servicios-web.netlify.app/)
 * [Tienda](https://tienda-polos.netlify.app/)
 * [Blog-Café](https://webblog-cafe.netlify.app/)
 * [Citas-Veterinaria](https://citas-veterinary-pet.netlify.app/)
 * [Planificador-Gastos](https://gastos-planificador.netlify.app/)
 * [Api-Criptomoneda](https://api-criptomoneda.netlify.app/)
-  
+
+### 💻 Sistemas Operativos
+
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![CENTOS](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white)
+![UBUNTU](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![WINDOWS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+
 
 ### 🔨 Heramientas
 
